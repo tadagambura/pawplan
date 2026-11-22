@@ -88,4 +88,4 @@ No veterinary advice: always signpost to a vet. Sharing needs a backend.
 - [ ] Landing page
 - [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
-- [ ] Added to growth-engine as an app config
+- [ ] Added to the Growth & Maintenance Engine as an app config
