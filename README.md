@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next treatment is scheduled automatically |
 | Cadence | Daily/monthly |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- The pet's avatar wags or purrs and does a happy dance at milestones
+- Fed: the pet does a happy wiggle
+- Walk logged: the pet drags the stickman along on the lead
+- Treatment done: the pet puts on a tiny superhero cape
+- Pet's birthday: party hat, tail-chasing
+- Weight logged: the pet stands proudly on the scale and flexes
 
 **Line we don't cross:** These are real animals: never animate illness, injury or death.
 
