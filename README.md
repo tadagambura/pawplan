@@ -56,6 +56,14 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | The next treatment is scheduled automatically |
 | Cadence | Daily/monthly |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- The pet's avatar wags or purrs and does a happy dance at milestones
+
+**Line we don't cross:** These are real animals: never animate illness, injury or death.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
