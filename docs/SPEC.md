@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- The pet's avatar wags or purrs and does a happy dance at milestones
+- Fed: the pet does a happy wiggle
+- Walk logged: the pet drags the stickman along on the lead
+- Treatment done: the pet puts on a tiny superhero cape
+- Pet's birthday: party hat, tail-chasing
+- Weight logged: the pet stands proudly on the scale and flexes
 
 **Line we don't cross:** These are real animals: never animate illness, injury or death.
 
