@@ -2,7 +2,7 @@
 
 **Your pet's care, all in one place**
 
-> #27 of 33 in the build order · Harder · Revenue potential: Medium · Family, Pets & Plants
+> #21 of 33 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Pet milestone cards |
 | Next step | The next treatment is scheduled automatically |
 | Cadence | Daily/monthly |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
