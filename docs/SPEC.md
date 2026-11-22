@@ -1,6 +1,6 @@
 # PawPlan: Spec
 
-**Your pet's care, all in one place** · #20 of 32 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
+**Your pet's care, all in one place** · #20 of 31 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
 
 ## One-liner
 
