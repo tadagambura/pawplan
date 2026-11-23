@@ -39,7 +39,7 @@ Dog and cat owners, multi-pet households.
 | Model | Detail |
 |---|---|
 | Free | One pet, with ads |
-| Premium | £2.49/month: multiple pets, sharing, records export |
+| Premium | £24.99/year (shown first) or £3.49/month: multiple pets, sharing, records export |
 | Affiliate | Insurance and food, clearly labelled |
 
 **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
