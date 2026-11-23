@@ -2,7 +2,7 @@
 
 **Your pet's care, all in one place**
 
-> #20 of 31 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants
+> #15 of 16 · Wave 2: Recurring keepers · Used: Daily · Harder · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
@@ -84,5 +84,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
