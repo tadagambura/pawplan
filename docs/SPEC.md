@@ -31,7 +31,8 @@ Feeding, walks, flea and worming treatments, vaccinations, vet appointments, med
 | Model | Detail |
 |---|---|
 | Free | One pet, with ads |
-| Premium | £24.99/year (shown first) or £3.49/month: multiple pets, sharing, records export |
+| Premium | £34.99/year (shown first) or £3.49/month: multiple pets, sharing, records export |
+| KC All Access | £25 once (every Arcade game in every KC app, kept forever) plus £7.99/month or £79.99/year (Premium in every KC app). Needs a free KC account. |
 | Affiliate | Insurance and food, clearly labelled |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
@@ -55,7 +56,7 @@ never wiped, at most one notification a day by default.
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
 - Fed: the pet does a happy wiggle
-- Walk logged: the pet drags the stickman along on the lead
+- Walk logged: the pet drags Kaos along on the lead
 - Treatment done: the pet puts on a tiny superhero cape
 - Pet's birthday: party hat, tail-chasing
 - Weight logged: the pet stands proudly on the scale and flexes
